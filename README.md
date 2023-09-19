@@ -17,9 +17,9 @@
 
 Estudante de Engenharia de Software em constante aprendizado. Apaixonado por tecnologia!!!
 # Desenvolvimento de Software | Backend
-- Java
-- SpringBoot
-- MySQL
+ Java
+ SpringBoot
+ MySQL
 
 ### Contate-me: 
 📭 email: caiovsrodriguess@gmail.com
