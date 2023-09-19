@@ -13,10 +13,11 @@
    <img align="center" alt="MySQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Estudante de Engenharia de Software em constante aprendizado. Apaixonado por tecnologia!!!
+# Desenvolvimento de Software | Backend
+# Java
+# SpringBoot
+# MySQL
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+### Contate-me: 
+📭 email: caiovsrodriguess@gmail.com
