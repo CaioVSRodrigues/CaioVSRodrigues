@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Caio Vinícius 🖐️
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-vinícius-silva)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vin%C3%ADcius-silva/)
+
 
 ![CaioVSRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=caioVSRodrigues&show_icons=true&theme=dracula&count_private=true)
 
